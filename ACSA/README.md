@@ -7,3 +7,8 @@ model = AspectAnything(
         )
 best_accuracy = model.train_model(train_df, best_accuracy)
 ```
+
+create your own enviroment based on Python >=3.6
+```py
+pip install -r requirements.txt
+```
