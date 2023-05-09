@@ -1,4 +1,7 @@
 # Pytorch-BERT-Classification
+
+## This part is directly borrowed from https://github.com/JoungheeKim/Pytorch-BERT-Classification
+
 This is pytorch simple implementation of [Pre-training of Deep Bidirectional Transformers for
 Language Understanding (BERT)](https://arxiv.org/pdf/1810.04805.pdf) by using awesome [pytorch BERT library](https://github.com/huggingface/pytorch-transformers)
 
