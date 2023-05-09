@@ -1,0 +1,10 @@
+simpletransformers==0.48.0
+
+tqdm~=4.65.0
+pandas~=1.5.3
+torch~=1.13.1
+numpy~=1.23.5
+transformers~=4.28.1
+wandb~=0.15.0
+tensorboardX~=2.6
+sadice
